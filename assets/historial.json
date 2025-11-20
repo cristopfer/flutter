@@ -1,0 +1,124 @@
+{
+  "analisis": [
+    {
+      "numAnalisis": "Análisis #001",
+      "riesgo": "Riesgo Moderado",
+      "riesgoTexto": "Se encontraron signos que requieren una evaluación médica en los próximos meses",
+      "area": "Región periférica izquierda",
+      "probabilidad": "72%",
+      "clasificacion": "PIRADS 4",
+      "recomendacion": "Programe una cita con un urólogo de su preferencia",
+      "fecha": "2024-01-15",
+      "estado": "Completado",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #002", 
+      "riesgo": "Riesgo Bajo",
+      "riesgoTexto": "Hallazgos dentro de los parámetros normales para la edad",
+      "area": "Región central y transicional",
+      "probabilidad": "28%",
+      "clasificacion": "PIRADS 2",
+      "recomendacion": "Controle anualmente según indicaciones de su médico",
+      "fecha": "2024-02-20",
+      "estado": "Completado",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #003",
+      "riesgo": "Riesgo Alto",
+      "riesgoTexto": "Presencia de lesiones sospechosas que requieren evaluación inmediata",
+      "area": "Región periférica derecha y ápex",
+      "probabilidad": "85%", 
+      "clasificacion": "PIRADS 5",
+      "recomendacion": "Consulte con urgencia con especialista para biopsia guiada",
+      "fecha": "2024-03-10",
+      "estado": "Pendiente revisión",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #004",
+      "riesgo": "Riesgo Muy Bajo",
+      "riesgoTexto": "Resultados completamente normales sin hallazgos sospechosos",
+      "area": "Toda la glándula prostática",
+      "probabilidad": "15%",
+      "clasificacion": "PIRADS 1",
+      "recomendacion": "Controle en 2 años según protocolo de screening",
+      "fecha": "2024-04-05",
+      "estado": "Completado",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #005",
+      "riesgo": "Riesgo Moderado-Alto",
+      "riesgoTexto": "Lesiones focales que ameritan evaluación especializada",
+      "area": "Región anterior y zona de transición",
+      "probabilidad": "78%",
+      "clasificacion": "PIRADS 4",
+      "recomendacion": "Realice resonancia multiparamétrica para mejor caracterización",
+      "fecha": "2024-05-12",
+      "estado": "En proceso",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #006",
+      "riesgo": "Riesgo Bajo-Moderado",
+      "riesgoTexto": "Cambios benignos con algunos focos que requieren seguimiento",
+      "area": "Región periférica bilateral",
+      "probabilidad": "45%",
+      "clasificacion": "PIRADS 3",
+      "recomendacion": "Repetir estudio en 6 meses para evaluación comparativa",
+      "fecha": "2024-06-18",
+      "estado": "Completado",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #007",
+      "riesgo": "Riesgo Alto",
+      "riesgoTexto": "Múltiples lesiones sospechosas con características de agresividad",
+      "area": "Zona periférica posterior y ápex",
+      "probabilidad": "92%",
+      "clasificacion": "PIRADS 5",
+      "recomendacion": "Biopsia prostática urgente y consulta oncológica",
+      "fecha": "2024-07-22",
+      "estado": "Pendiente revisión",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #008",
+      "riesgo": "Riesgo Muy Bajo",
+      "riesgoTexto": "Próstata de características normales para la edad del paciente",
+      "area": "Todas las regiones prostáticas",
+      "probabilidad": "8%",
+      "clasificacion": "PIRADS 1",
+      "recomendacion": "Seguimiento rutinario según edad y factores de riesgo",
+      "fecha": "2024-08-30",
+      "estado": "Completado",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #009",
+      "riesgo": "Riesgo Moderado",
+      "riesgoTexto": "Área focal con aumento de señal que requiere correlación clínica",
+      "area": "Región transicional izquierda",
+      "probabilidad": "65%",
+      "clasificacion": "PIRADS 3",
+      "recomendacion": "Evaluación por urólogo y considerar biopsia según PSA",
+      "fecha": "2024-09-14",
+      "estado": "Completado",
+      "correo": "eysen@gmail.com"
+    },
+    {
+      "numAnalisis": "Análisis #010",
+      "riesgo": "Riesgo Alto",
+      "riesgoTexto": "Lesión extensa con criterios de malignidad establecidos",
+      "area": "Región periférica derecha con extensión extracapsular",
+      "probabilidad": "95%",
+      "clasificacion": "PIRADS 5",
+      "recomendacion": "Biopsia guiada por fusión y estadificación completa",
+      "fecha": "2024-10-05",
+      "estado": "En proceso",
+      "correo": "eysen@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "nombre": "admin",
+      "correo": "admin@gmail.com",
+      "password": "123",
+      "estado": 1
+    },
+    {
+      "nombre": "eysen",
+      "correo": "eysen@gmail.com",
+      "password": "12",
+      "estado": 0
+    }
+  ]
+}

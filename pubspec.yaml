@@ -1,0 +1,52 @@
+name: helloworld
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  file_picker: ^6.1.1
+  url_launcher: ^6.1.11
+  share_plus: ^7.0.1
+  provider: ^6.1.0 
+  http: ^1.1.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Agrega esto para file_picker en FlutLab
+  generate: true
+  
+  assets:
+    - assets/logo.png
+    - assets/facebook.png
+    - assets/google.png
+    - assets/apple.png
+    - assets/botiquin.png
+    - assets/correo.png
+    - assets/candado.png
+    - assets/candado1.png
+    - assets/contrato.png
+    - assets/user1.png
+    - assets/user2.png
+    - assets/user3.png
+    - assets/camara.png
+    - assets/tiempo.png
+    - assets/subir.png
+    - assets/scan.png
+    - assets/disk.png
+    - assets/reporte.png
+    - assets/lupa.png
+    - assets/users.json
+    - assets/historial.json
